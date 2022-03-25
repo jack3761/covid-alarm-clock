@@ -1,0 +1,11 @@
+{
+"news": {
+"news_key" : "28ff960dbe1844888a32b1b21c0a661a", "news_URL" : "https://newsapi.org/v2/top-headlines?", "news_key_words" : []
+},
+"weather": {
+"weather_key" : "541d0a22025b225793e8a34601536dc3", "weather_URL" : "http://api.openweathermap.org/data/2.5/weather?", "weather_city" : "Exeter"
+},
+"misc" : {
+"image" : "image.jpg", "refresh_time" : 1800
+}
+}
